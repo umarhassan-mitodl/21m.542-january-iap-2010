@@ -1,0 +1,19 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 7e4d4c95-4c6e-f5ca-d140-1246394bb63c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: beb0121e-49cc-4d84-9e80-e5ef2dc34c75
+  name: Classroom Sessions
+  pageRef: /video_galleries/classroom-sessions
+  weight: 20
+- identifier: c69e6ceb-7d9d-74a5-dcbd-92abd28a8ce9
+  name: Forums and Concerts
+  pageRef: /video_galleries/forums-and-concerts
+  weight: 30
+- identifier: c7502bbb-e093-ce34-0b30-a8f034a67883
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
