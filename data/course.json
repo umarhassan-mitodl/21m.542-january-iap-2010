@@ -33,8 +33,7 @@
     "website": "21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010"
   },
   "course_title": "Interdisciplinary Approaches to Musical Time",
-  "hide_download": true,
-  "course_description": "This course is an interdisciplinary exploration of three broad topics concerning music in relation to time.\n\n1.  Music as Architecture: the creation of musical shapes in time;\n2.  Music as Memory: how musical understanding depends upon memory and reminiscence, with attention to analysis of musical structures; and\n3.  Time as the Substance of Music: how different disciplines such as philosophy and neuroscience view the temporal dimension of musical processes and/or performances.\n\nClassroom discussion of these topics is complemented by three weekend concerts with pre-concert forums, jointly presented by the [Boston Chamber Music Society](http://www.bostonchambermusic.org/) (BCMS) and MIT Music & Theater Arts.\n",
+  "course_description": "This course is an interdisciplinary exploration of three broad topics concerning music in relation to time.\n\n1.  Music as Architecture: the creation of musical shapes in time;\n2.  Music as Memory: how musical understanding depends upon memory and reminiscence, with attention to analysis of musical structures; and\n3.  Time as the Substance of Music: how different disciplines such as philosophy and neuroscience view the temporal dimension of musical processes and/or performances.\n\nClassroom discussion of these topics is complemented by three weekend concerts with pre-concert forums, jointly presented by the {{% resource_link \"a7835dcf-717d-4b06-95a6-2e92218352c3\" \"Boston Chamber Music Society\" %}} (BCMS) and MIT Music & Theater Arts.\n",
   "department_numbers": [
     "21M"
   ],
@@ -44,7 +43,6 @@
     "content": "076d810b-792e-7d08-e778-3a6541e6f46d",
     "website": "21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Other Video",
     "Lecture Videos",

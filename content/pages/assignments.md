@@ -2,8 +2,6 @@
 content_type: page
 description: This section describes the written paper and presentation assignments,
   and includes sample student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

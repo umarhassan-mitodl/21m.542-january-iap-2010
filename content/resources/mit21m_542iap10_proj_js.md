@@ -5,8 +5,6 @@ description: This resource contains a student project presentation on notation a
 file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/8a684bf54ffa86775c69b0ad876f366f_MIT21M_542IAP10_proj_js.pdf
 file_size: 821908
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

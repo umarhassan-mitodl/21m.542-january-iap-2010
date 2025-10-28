@@ -5,8 +5,6 @@ description: "This resource contains information related to ravel\u2019s passaca
 file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/5418d1d0f5b473e8ce4c98e3bf870515_MIT21M_542IAP10_resp1_js.pdf
 file_size: 254701
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

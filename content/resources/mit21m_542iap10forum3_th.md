@@ -4,8 +4,6 @@ description: ''
 file: /courses/21m-542-interdisciplinary-approaches-to-musical-time-january-iap-2010/e39c9b99877748f6e542128380dc152a_MIT21M_542IAP10forum3_th.jpg
 file_size: 4458
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
